@@ -2,7 +2,7 @@
 
 ## Overview
 
-These Microsoft Developer YouTube series is designed to help get you up to speed on Bash.  
+These Microsoft Developer YouTube series is designed to help get you up to speed on Bash.  ##Adding in some text to keep my clone live## 
 
 These three series on Channel 9 and YouTube are designed to help get you up to speed on Bash. Bash is considered a universal language when it comes to cloud computing and programming. Many languages support Bash commands to pass data and information and when it comes to the Cloud, all platforms support using it to interact with your environment. 
 
